@@ -14,8 +14,7 @@
 
 # LOAD MODULES, INSERT CODE, AND RUN YOUR PROGRAMS HERE
 
-print(time.time()-t0);"
-n -u -c "import PyHipp as pyh; \
+python -u -c "import PyHipp as pyh; \
 import time; \
 import os; \
 t0 = time.time(); \
